@@ -1,3 +1,3 @@
 # assigment1
 
-![go to index](./index.html)
+!["go to index"](./index.html)
